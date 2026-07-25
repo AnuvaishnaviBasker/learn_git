@@ -1,3 +1,3 @@
 import pyautogui
 pyautogui.FAILSAFE = True
-pyautogui.PAUSE
+pyautogui.PAUSE =1.0
